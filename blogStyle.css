@@ -1,0 +1,48 @@
+* {
+	/* Assigning Source Sans Pro font to all page contents */
+	font-family: 'Source Sans Pro';
+}
+
+/* div style creates main box */
+#body-style {
+	width: 60%;
+	margin: 25px auto;
+	border: 25px solid #bdc3c7;
+}
+
+/* Styles the date */
+.date-style {
+	color: #3498db;
+	text-transform: uppercase;
+	margin-left: 2%;
+	letter-spacing: 1.5px;
+}
+
+/* Styles the header */
+h1 {
+	text-transform: capitalize;
+	margin-left: 2%;
+}
+
+/* Styles the paragraph */
+p {
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+/* Creates a side border on first paragraph of blog */
+.border-paragraph {
+	border-left: 6px solid #bdc3c7;
+	padding-left: 6px;
+}
+
+/* Horizontal line style */
+hr {
+	margin: 0 2%;
+	border: 0.5px solid #bdc3c7;
+}
+
+/* Horizontal line style */
+.horizontal-line {
+	padding: 20px 0;
+}
